@@ -1,0 +1,25 @@
+{
+  "name": "HikeOuT-Nature_Pursuit",
+  "version": "1.0.0",
+  "description": "HikeOuT is a campground rating app, where users can create their own campgrounds, view and comment on others' campgrounds.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taniya0501/HikeOuT-Nature_Pursuit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Taniya0501/HikeOuT-Nature_Pursuit/issues"
+  },
+  "homepage": "https://github.com/Taniya0501/HikeOuT-Nature_Pursuit#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.3"
+  }
+}
