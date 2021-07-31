@@ -38,3 +38,8 @@ $ node app.js
   - Now, into the project folder, create a file named `.env` and add the following code
   - `MONGODB_URI = <your_connection_string>`
     To view in your brower navigate to `http://localhost:3000` on your browser
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+## :confetti_ball: Thank you for visiting my Repository :smile:
+---------------------------------------------------------------------------------------------------------------------------------------------------
