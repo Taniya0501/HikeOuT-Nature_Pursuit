@@ -1,10 +1,11 @@
 {
-  "name": "HikeOuT-Nature_Pursuit",
+  "name": "hikeout",
   "version": "1.0.0",
   "description": "HikeOuT is a campground rating app, where users can create their own campgrounds, view and comment on others' campgrounds.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
