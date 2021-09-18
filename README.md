@@ -1,5 +1,5 @@
-# HikeOuT_with_YelpCamp
-HikeOuT is a campground rating app, where users can create their own campgrounds, view and comment on others' campgrounds. 
+# goCamping_with_YelpCamp
+YelpCamp is a campground rating app, where users can create their own campgrounds, view and comment on others' campgrounds. 
 
 ## Features:star2:
 
@@ -8,7 +8,7 @@ HikeOuT is a campground rating app, where users can create their own campgrounds
 * It is a fully working website where user can register/signin himself, and can add new campgrounds along with it's pictures, can edit the campground's details, leave review on campground with star-ratings, delete reviews, delete whole campground along with its details and reviews. Also, user can see the campground position in map and can also view all the registered campgrounds Clusters formed (along with features of Zoom-in/Zoom-out, rotate-map,etc).
 
 visit it here-
-[HikeOut](https://hikeout-yelpcamp.herokuapp.com/) :rocket::rocket:
+[goCamping](https://hikeout-yelpcamp.herokuapp.com/) :rocket::rocket:
 
 ## Tech Stack :zap::zap:
 
